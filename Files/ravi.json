@@ -1,0 +1,37 @@
+[
+    {
+        "Name":"Rawee",
+        "Score":"3",
+        "1st":"2",
+        "2nd":"6",
+        "3rd":"5"
+    },
+    {
+        "Name":"Gaurav",
+        "Score":"3",
+        "1st":"5",
+        "2nd":"2",
+        "3rd":"5"
+    },
+    {
+        "Name":"Bansal",
+        "Score":"9",
+        "1st":"2",
+        "2nd":"1",
+        "3rd":"5"
+    },
+    {
+        "Name":"Tripathi",
+        "Score":"3",
+        "1st":"2",
+        "2nd":"8",
+        "3rd":"5"
+    },
+    {
+        "Name":"Simran",
+        "Score":"3",
+        "1st":"2",
+        "2nd":"2",
+        "3rd":"5"
+    }
+]
