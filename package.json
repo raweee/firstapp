@@ -14,6 +14,9 @@
   "author": "Ravi Mishra",
   "license": "ISC",
   "dependencies": {
-    "node-red": "^1.0.6"
+    "node-red": "^1.0.6",
+    "node-red-contrib-calc": "~1.0.1",
+    "node-red-dashboard": "~2.22.1",
+    "node-red-node-ui-table": "~0.3.1"
   }
 }
