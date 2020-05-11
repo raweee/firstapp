@@ -51,3 +51,9 @@
 {"chatId":963147057,"messageId":220,"type":"message","content":"/ludo"}
 {"chatId":963147057,"messageId":222,"type":"message","content":"/situ"}
 {"chatId":963147057,"messageId":225,"type":"message","content":"/situ"}
+{"chatId":963147057,"messageId":227,"type":"contact","content":{"phone_number":"919015415165","first_name":"Ravi","last_name":"Mishra","user_id":963147057},"date":1589225707}
+{"chatId":1144697778,"messageId":228,"type":"message","content":"/start"}
+{"chatId":1144697778,"messageId":230,"type":"message","content":"/ludo"}
+{"chatId":1144697778,"messageId":233,"type":"message","content":"/situ"}
+{"chatId":1144697778,"messageId":236,"type":"message","content":"Tu lagayega bhai g"}
+{"chatId":1144697778,"messageId":238,"type":"message","content":"Situ g kar use"}
